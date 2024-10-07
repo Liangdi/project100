@@ -1,6 +1,7 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 import ghPages from 'rspress-plugin-gh-pages';
+import ga from 'rspress-plugin-google-analytics';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
@@ -20,6 +21,9 @@ export default defineConfig({
       repo: 'git@github.com:Liangdi/project100.git',
       branch: 'gh-pages',
       siteBase:'/'
+    }),
+    ga({
+      id: 'G-N7JESR8QFT',
     }),
   ],
 });
