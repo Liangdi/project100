@@ -15,6 +15,9 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
     ],
+    footer:{
+      message:'© 2024 百万计划项目组'
+    }
   },
   plugins: [
     ghPages({

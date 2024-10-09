@@ -1,16 +1,23 @@
 [
+ 
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
+    "text": "道",
+    "link": "/dao/",
+    "activeMatch": "/dao/"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "法",
+    "link": "/method/",
+    "activeMatch": "/method/"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "术",
+    "link": "/tech/",
+    "activeMatch": "/tech/"
+  },
+  {
+    "text": "器",
+    "link": "/tool/",
+    "activeMatch": "/tool/"
   }
 ]
