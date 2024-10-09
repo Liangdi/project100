@@ -10,7 +10,7 @@ hero:
       text: 开始
       link: /start/
   image:
-    src: /rspress-icon.png
+    src: /logo.png
     alt: 百万计划 Logo
 features:
   - title: 传道

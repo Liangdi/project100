@@ -7,10 +7,10 @@ export default defineConfig({
   root: path.join(__dirname, 'docs'),
   title: '百万计划',
   description: '开始你的百万计划',
-  icon: '/rspress-icon.png',
+  icon: '/logo.png',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/logo-rect-light.png',
+    dark: '/logo-rect-dark.png',
   },
   themeConfig: {
     socialLinks: [
